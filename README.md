@@ -1,13 +1,12 @@
 <p align="center">
-  <a href="media/nomre-trailer.mp4"><img src="media/nomre-trailer.gif" alt="Nomre trailer (click for the full-quality video)" width="820"></a>
+  <img src="media/screenshots/01-today.png" alt="Nomre - Today's review" width="820">
 </p>
 
 <h1 align="center">Nomre</h1>
 <p align="center"><b>Remember what you learn.</b><br>A calm, simple spaced-review study tracker for Windows.<br>Free &middot; works offline &middot; no account &middot; Farsi + English</p>
 
 <p align="center">
-  <a href="https://github.com/piksami/Nomre-releases/releases/latest"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp;
-  <a href="media/nomre-trailer.mp4">Watch the trailer</a>
+  <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Windows</b></a>
 </p>
 
 **Status: beta** - made by Sam Ashoori.
@@ -17,8 +16,6 @@
 ## How it works
 
 Log what you learnt today. Nomre tells you what to review each day using the **2-3-5-7 method**: review a lesson **2 days** after you learn it, then **3**, **5** and **7 days** after each previous review. Tap **Reviewed**, and the next review is scheduled for you. After four reviews the lesson moves to **Done**.
-
-<p align="center"><img src="media/screenshots/01-today.png" alt="Today's review" width="820"></p>
 
 ## Features
 
