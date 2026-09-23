@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Nomre</h1>
-<p align="center"><b>Remember what you learn.</b><br>A calm, simple spaced-review study tracker for Windows.<br>Free &middot; works offline &middot; no account &middot; Farsi + English</p>
+<p align="center"><b>Remember what you learn.</b><br>A calm, simple spaced-review study tracker for Windows and Android.<br>Free &middot; works offline &middot; no account &middot; Farsi + English</p>
 
 <p align="center">
-  <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Windows</b></a>
+  <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Android</b></a>
 </p>
 
 **Status: beta** - made by Sam Ashoori.
@@ -27,8 +27,9 @@ Log what you learnt today. Nomre tells you what to review each day using the **2
 - **Farsi and English** with full right-to-left support, plus an optional **second calendar** (Persian, Islamic, Hebrew, Chinese, Buddhist, Japanese, Indian, Coptic, Ethiopic and more).
 - **Your own subjects**, with your own colours.
 - **Keyboard friendly**: 1-5 switch tabs, N starts a new lesson, R marks the next review done, / or Ctrl+F searches, Ctrl+Enter saves.
-- **Private by design**: everything stays on your computer. No account, nothing is sent anywhere.
-- **Updates itself**: Settings > Updates > Check for updates. Your lessons are kept, and a backup is saved automatically first.
+- **On your phone too**: the same app for Android, with a layout made for a phone. Move lessons between your computer and phone with Export and Import.
+- **Private by design**: everything stays on your device. No account, nothing is sent anywhere.
+- **Easy updates**: Settings > Updates > Check for updates, on Windows and on Android. Your lessons are kept.
 
 ## Screenshots
 
@@ -57,18 +58,36 @@ Log what you learnt today. Nomre tells you what to review each day using the **2
 
 ## Download
 
-Go to the **[Releases page](https://github.com/piksami/Nomre-releases/releases)** and download **Nomre-Setup-x.y.z-beta.exe** from the newest release.
+Go to the **[Releases page](https://github.com/piksami/Nomre-releases/releases)** and open the newest release. It has both downloads:
 
-## Install
+- **Windows:** `Nomre-Setup-x.y.z-beta.exe`
+- **Android:** `Nomre-x.y.z-beta.apk`
+
+## Install on Windows
 
 1. Run the downloaded installer. It installs for your user only - no administrator rights needed.
 2. Windows may show a blue *"Windows protected your PC"* / *unknown publisher* screen, because the app is not code-signed yet. Click **More info**, then **Run anyway**.
 3. Open **Nomre** from the desktop or Start menu.
 
+## Install on Android
+
+Android 8.0 or newer.
+
+1. On your phone, open the **Releases page** and download **Nomre-x.y.z-beta.apk** from the newest release.
+2. Open the downloaded file and tap **Install**. Android may ask you to allow installing apps from your browser or file manager first, because Nomre is not on Google Play yet. Allow it for this one install.
+3. Open **Nomre**.
+
 ## Updates
 
-Nomre updates itself: open **Settings > Updates > Check for updates**. Your lessons are kept when you update.
+**Windows:** Nomre updates itself. Open **Settings > Updates > Check for updates**. Your lessons are kept when you update.
+
+**Android:** open **Settings > Updates > Check for updates**. If there is a newer version, tap **Download and update**, open the downloaded file and tap **Install**. It installs over the old one and your lessons are kept. (You can also just download the newest APK from the Releases page and install it the same way.)
+
+## Moving lessons between your computer and phone
+
+On one device, open **Settings > Share lessons > Export lessons**, turn on **Include my review progress**, and send yourself the file. On the other device, choose **Import a file**.
 
 ## Your data
 
-Everything is stored only on your computer (`%APPDATA%\nomre`). There is no account and nothing is sent anywhere. Uninstalling keeps your lessons.
+Everything is stored only on your device (on Windows, in `%APPDATA%\nomre`). There is no account and nothing is sent anywhere. Uninstalling the Windows app keeps your lessons; uninstalling the Android app removes them, so export a file first if you want a copy.
+
