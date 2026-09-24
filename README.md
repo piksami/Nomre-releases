@@ -6,7 +6,7 @@
 <p align="center"><b>Remember what you learn.</b><br>A calm, simple spaced-review study tracker for Windows and Android.<br>Free &middot; works offline &middot; no account &middot; Farsi + English</p>
 
 <p align="center">
-  <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Android</b></a>
+  <a href="https://github.com/piksami/Nomre-releases/releases"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/piksami/Nomre-android-releases/releases"><b>Download for Android</b></a>
 </p>
 
 **Status: beta** - made by Sam Ashoori.
@@ -58,10 +58,9 @@ Log what you learnt today. Nomre tells you what to review each day using the **2
 
 ## Download
 
-Go to the **[Releases page](https://github.com/piksami/Nomre-releases/releases)** and open the newest release. It has both downloads:
+Go to the **[Releases page](https://github.com/piksami/Nomre-releases/releases)** and download **Nomre-Setup-x.y.z-beta.exe** from the newest release.
 
-- **Windows:** `Nomre-Setup-x.y.z-beta.exe`
-- **Android:** `Nomre-x.y.z-beta.apk`
+Looking for the phone app? Nomre for Android has its own **[Releases page](https://github.com/piksami/Nomre-android-releases/releases)**, with its own version numbers.
 
 ## Install on Windows
 
@@ -73,7 +72,7 @@ Go to the **[Releases page](https://github.com/piksami/Nomre-releases/releases)*
 
 Android 8.0 or newer.
 
-1. On your phone, open the **Releases page** and download **Nomre-x.y.z-beta.apk** from the newest release.
+1. On your phone, open the **[Android releases page](https://github.com/piksami/Nomre-android-releases/releases)** and download **Nomre-x.y.z-beta.apk** from the newest release.
 2. Open the downloaded file and tap **Install**. Android may ask you to allow installing apps from your browser or file manager first, because Nomre is not on Google Play yet. Allow it for this one install.
 3. Open **Nomre**.
 
@@ -81,7 +80,7 @@ Android 8.0 or newer.
 
 **Windows:** Nomre updates itself. Open **Settings > Updates > Check for updates**. Your lessons are kept when you update.
 
-**Android:** open **Settings > Updates > Check for updates**. If there is a newer version, tap **Download and update**, open the downloaded file and tap **Install**. It installs over the old one and your lessons are kept. (You can also just download the newest APK from the Releases page and install it the same way.)
+**Android:** open **Settings > Updates > Check for updates**. If there is a newer version, tap **Download and update**, open the downloaded file and tap **Install**. It installs over the old one and your lessons are kept. (You can also just download the newest APK from the [Android releases page](https://github.com/piksami/Nomre-android-releases/releases) and install it the same way.)
 
 ## Moving lessons between your computer and phone
 
