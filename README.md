@@ -20,9 +20,10 @@ Log what you learnt today. Nomre tells you what to review each day using the **2
 ## Features
 
 - **Today's review**: only what is due, with a progress bar and a friendly note when you are done.
-- **Log a lesson in seconds**: pick the subject, type the pages (a single page needs only one box), add an optional description, and see your review plan right away.
-- **Library**: search and filter everything you have learnt by subject, page, date, progress or description.
-- **Share lessons with friends**: export a small file (choose today, this week, in progress or everything, pick subjects, add your name and a message). Your friend drags the file onto Nomre, sees exactly what is in it, and chooses whether to add it. Duplicates are skipped and missing subjects are created for them.
+- **Log a lesson in seconds**: pick the subject and where you read it (book, study notes, papers or your own), type the pages (a single page needs only one box), add an optional description, and see your review plan right away.
+- **Sources**: the same pages from your book and from your study notes stay two separate lessons. Add, rename or delete sources in Settings, or turn them off if you don't need them.
+- **Library**: search and filter everything you have learnt by subject, source, page, date, progress or description. Quick filters show what is overdue, due today or due this week, and you can select many lessons at once to finish, delete, move to another subject or change their source.
+- **Share lessons with friends**: export a small file (choose today, this week, in progress or everything, pick subjects, add your name and a message). Your friend drags the file onto Nomre, sees exactly what is in it, and chooses whether to add it. Duplicates are skipped, and any subjects or sources they don't have yet are created for them.
 - **Six themes**: Sage, Midnight, Rose, Ocean, Mocha and Neon.
 - **Farsi and English** with full right-to-left support, plus an optional **second calendar** (Persian, Islamic, Hebrew, Chinese, Buddhist, Japanese, Indian, Coptic, Ethiopic and more).
 - **Your own subjects**, with your own colours.
